@@ -1,0 +1,9 @@
+# LLM & Google Gemini
+google-generativeai==0.5.2
+
+# Web UI
+gradio==5.12.0
+
+# Data handling (optional, in case you later extend with resumes in CSV/Excel)
+pandas==2.2.2
+numpy==1.26.4
