@@ -48,17 +48,3 @@ job-application-coach/
    cd job-application-coach
 
 
-Install dependencies:
-
-pip install -r requirements.txt
-
-
-Open the notebook in Google Colab and add your Gemini API key:
-
-import google.generativeai as genai
-genai.configure(api_key="YOUR_GEMINI_API_KEY")
-
-
-Run the app:
-
-demo.launch(share=True)
